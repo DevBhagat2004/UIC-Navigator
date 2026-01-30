@@ -6,6 +6,14 @@ An intelligent route-finding web application designed specifically for Universit
 
 UIC Navigator helps students save time on campus by finding the shortest routes between buildings. It uses real map data and a reliable pathfinding algorithm to give you accurate directions across the UIC campus.
 
+## Demo Video
+
+Check out the demo video to see UIC Navigator in action:
+
+[![UIC Navigator Demo](https://img.youtube.com/vi/1Ru8FfGSDIc/0.jpg)](https://youtu.be/1Ru8FfGSDIc?si=ci6ZZhUsqwea58WU)
+
+[Watch on YouTube](https://youtu.be/1Ru8FfGSDIc?si=ci6ZZhUsqwea58WU)
+
 ## Features
 
 - **Shortest Path Calculation**: Utilizes Dijkstra's algorithm to find optimal routes between campus locations
